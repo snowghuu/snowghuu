@@ -11,9 +11,6 @@
 <table align="center">
   <tr>
     <td>
-
-<!-- BLOCO DE INFORMAÇÃO -->
-
 <pre>
 <code>
 > neofetch
@@ -32,7 +29,6 @@ Security Engineer | 0day Researcher
 • Tooling: Qiling, Frida, Radare2
 </code>
 </pre>
-
     </td>
     <td>
       <img src="https://raw.githubusercontent.com/voidkernel/voidkernel/main/04659a0d-5805-4cb1-9edc-cd714c3c315a.png" width="180px"/>
