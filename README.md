@@ -1,6 +1,3 @@
-<p align="center">
-  ‹ Este perfil só funciona no tema escuro do GitHub ›
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF&section=header"/>
