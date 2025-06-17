@@ -1,16 +1,16 @@
-## Hi there 👋
+<p align="center">
+    ‹ Este perfil só funciona no tema escuro do GitHub ›
+</p>
+<br>
+<a href="#"><img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=FFFFFF&section=header"/></a>
+<a href="#"><img width="100%" src="https://readme-typing-svg.herokuapp.com?font=SUSE&size=30&pause=2000&color=FFFFFF&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+tudo+bem%3F+Me+chamo+snowghuu!;Seja+bem-vindo(a)+ao+meu+perfil."/></a>
 
-<!--
-**voidkernel/voidkernel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
+<p align="center">
+    <a href="#"><img width="7%" alt="Website" title="Website" src="https://i.imgur.com/eGQcBg7.png"/></a>
+</p>
 
-Here are some ideas to get you started:
+<br><br><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```zsh
+> neofetch
