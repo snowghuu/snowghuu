@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=00BFFF&section=header"/>
 </p>
 
-<h2 align="center">Olá, tudo bem? Me chamo snowghuu!</h2>
+<h2 align="center">Hi, my name is snowghuu.</h2>
 
 <table align="center">
   <tr>
